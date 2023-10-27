@@ -1,2 +1,2 @@
-# apostas
-sistema de aposta em python.
+# Slot Machine
+sistema de caça-níqueis em python, usando AOO
